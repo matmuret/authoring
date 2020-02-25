@@ -10,7 +10,8 @@ external link
 internal link
 ------------------------------------------------------------------------------------------------------------------------------
 
-[I'm an inline-style link with title](https://help.github.com/en "external link")
+[External link](https://help.github.com/en )
+
 images
 ------------------------------------------------------------------------------------------------------------------------------
 emoji
