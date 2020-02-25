@@ -3,16 +3,22 @@
 Github Flavoured Markdown
 -----------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
+- [ ] [External link](https://help.github.com/en )
+- [x] <a name="authoring">Internal Link</a>
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
-* [x] checked   # [checkbox:checked]
-* [X] checked   # [checkbox:checked]
 
-[External link](https://help.github.com/en )
 
 
 internal link
 ------------------------------------------------------------------------------------------------------------------------------
-<a name="authoring">Internal Link</a>
+
 
 images
 ------------------------------------------------------------------------------------------------------------------------------
