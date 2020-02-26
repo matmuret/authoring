@@ -14,8 +14,7 @@ Github Flavoured Markdown
 - [x] :smile:
 
 
-- [x] 
-      Names   | Class
+ -     Names  | Class
       --------|-------------
       Filippo | 1
       Pedro   | 2
