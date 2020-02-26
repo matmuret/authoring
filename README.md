@@ -4,17 +4,17 @@ Github Flavoured Markdown
 -----------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
 - [X] [External link](https://help.github.com/en )
-- [x] <a name="authoring">Internal Link</a>
+- [x] 
 - [x] [riferimento]: images/logo.png "Image"
 - 
--![Kiku](images/logo.png)
+- [x] ![Kiku](images/logo.png)
 
 
 
-:smile:
+- [x] :smile:
 
 
-Names        | Class
------------- | -------------
-Filippo      | 1
-Pedro        | 2
+- [x] Names        | Class
+      ------------ | -------------
+      Filippo      | 1
+      Pedro        | 2
