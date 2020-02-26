@@ -1,11 +1,11 @@
 
 
-- # Github Flavoured Markdown {#anchorName}
+- ## Github Flavoured Markdown
 -----------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
 - [X] [External Link](https://help.github.com/en )
-- [x] [Github Flavoured Markdown] {#anchorName}
-- [x] [image]: (images/logo.png) "Image"
+- [x] [Link to Header](#the-header)
+- [x] [image]: (images/logo.png) 
 
 - [x] ![Kiku](images/logo.png)
 
