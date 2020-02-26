@@ -5,7 +5,7 @@ Github Flavoured Markdown
 -----------------------------------------------------------------------------------------------------------------------------
 - [ ] [External link](https://help.github.com/en )
 - [x] <a name="authoring">Internal Link</a>
-- [x] Earth (Orbit/Moon)
+- [x] ![Image](../path/logo.png)
 - [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
