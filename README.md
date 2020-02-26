@@ -5,14 +5,9 @@ Github Flavoured Markdown
 -----------------------------------------------------------------------------------------------------------------------------
 - [ ] [External link](https://help.github.com/en )
 - [x] <a name="authoring">Internal Link</a>
-- [x] ![Kiku](images/logo.png)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] !
 
+-![Kiku](images/logo.png)
 
 
 
