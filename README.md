@@ -17,4 +17,4 @@ Github Flavoured Markdown
 Names        | Class
 ------------ | -------------
 Filippo      | 1
-Pedro        | 0
+Pedro        | 2
