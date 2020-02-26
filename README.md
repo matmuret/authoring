@@ -1,10 +1,11 @@
 
 
-- ## Github Flavoured Markdown
+
+## Github Flavoured Markdown
 -----------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
 - [X] [External Link](https://help.github.com/en )
-- [x] [Link to Header](#the-header)
+- [x] [Github Flavoured Markdown](#the-header)
 - [x] [image]: (images/logo.png) 
 
 - [x] ![Kiku](images/logo.png)
