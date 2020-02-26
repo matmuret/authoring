@@ -12,7 +12,9 @@ Github Flavoured Markdown
 
 
 :smile:
-Names | Class
+
+
+Names        | Class
 ------------ | -------------
-Filippo | 1
-Pedro | 0
+Filippo      | 1
+Pedro        | 0
